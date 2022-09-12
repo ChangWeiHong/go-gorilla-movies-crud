@@ -1,0 +1,1 @@
+This is a simple CRUD Go project of Movies
